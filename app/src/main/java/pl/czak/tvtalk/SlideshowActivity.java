@@ -35,7 +35,7 @@ public class SlideshowActivity extends Activity {
             finish();
         }
 
-        showPage(1);
+        showPage(0);
     }
 
     @Override
